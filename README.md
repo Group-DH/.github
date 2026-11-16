@@ -21,5 +21,5 @@ Please also see following documents:
 - [CODE OF CONDUCT](CODE-OF-CONDUCT.md)
 
 ## 🔗Links
-- 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
-- 📫 How to reach us info@eliasdh.com
+- 👯 Web hosting company [group-dh.com](https://group-dh.com).
+- 📫 How to reach us info@group-dh.com
