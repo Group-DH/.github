@@ -1,8 +1,8 @@
-<img width="128" height="128" alt="unnamed" src="https://github.com/user-attachments/assets/de6bf135-d333-4546-8b9b-29c13ff8e0ba"/>
+<img width="128" height="128" alt="Group DH" src="https://raw.githubusercontent.com/Group-DH/.github/main/assets/logo.png"/>
 
 # 💙🤍LICENSE🤍💙
 
-Copyright © EliasDH. All rights Reserved.
+Copyright © Group DH. All rights Reserved.
 
 No person is hereby granted, without charge, the permission to obtain a copy
 of this software and associated documentation files (the "Software"), to deal
