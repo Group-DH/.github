@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/de6bf135-d333-4546-8b9b-29c13ff8e0ba"/>
+<img width="128" height="128" alt="unnamed" src="https://github.com/user-attachments/assets/de6bf135-d333-4546-8b9b-29c13ff8e0ba"/>
 
 # 💙🤍README🤍💙
 
