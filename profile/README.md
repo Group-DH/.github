@@ -27,15 +27,15 @@ We run the cloud, own the buildings and open the doors.
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/Group-DH/DHMail"><img src="https://raw.githubusercontent.com/Group-DH/DHMail/main/App/build/icon.png" width="88" height="88" alt="DHMail"/></a>
+      <a href="https://github.com/Group-DH/DHMail"><img src="https://github.com/Group-DH/DHMail/blob/main/App/build/icon.png?raw=true" width="88" height="88" alt="DHMail"/></a>
       <h3><a href="https://github.com/Group-DH/DHMail">DHMail</a></h3>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/Group-DH/DHFile"><img src="https://raw.githubusercontent.com/Group-DH/DHFile/main/App/build/icon.png" width="88" height="88" alt="DHFile"/></a>
+      <a href="https://github.com/Group-DH/DHFile"><img src="https://github.com/Group-DH/DHFile/blob/main/App/build/icon.png?raw=true" width="88" height="88" alt="DHFile"/></a>
       <h3><a href="https://github.com/Group-DH/DHFile">DHFile</a></h3>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/Group-DH/DHTerminal"><img src="https://raw.githubusercontent.com/Group-DH/DHTerminal/main/App/build/icon.png" width="88" height="88" alt="DHTerminal"/></a>
+      <a href="https://github.com/Group-DH/DHTerminal"><img src="https://github.com/Group-DH/DHTerminal/blob/main/App/build/icon.png?raw=true" width="88" height="88" alt="DHTerminal"/></a>
       <h3><a href="https://github.com/Group-DH/DHTerminal">DHTerminal</a></h3>
     </td>
   </tr>
