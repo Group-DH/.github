@@ -18,7 +18,7 @@ We run the cloud, own the buildings and open the doors.
 
 ## How the group fits together
 
-<img src="../assets/structure.png" width="100%" alt="Group DH company structure: Elias De Hondt (EDH Management BV, 75%) and Thomas Deweerdt (TD Management BV, 25%) own Group DH BV, which fully owns Cloud DH BV, Real Estate DH BV and Hospitality DH BV with Venue 1, 2 and 3 BV."/>
+<img src="../assets/structure.png" width="100%" alt="Group DH company structure: Elias De Hondt (EDH Management BV, 75%) and Thomas Deweerdt (TDW Management BV, 25%) own Group DH BV, which fully owns Cloud DH BV, Real Estate DH BV and Hospitality DH BV with Venue 1, 2 and 3 BV."/>
 
 <br/>
 
